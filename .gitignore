@@ -1,3 +1,4 @@
 build/*
 dist/*
 .venv
+wowsims-gear-extractor.spec
